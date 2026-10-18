@@ -1,1 +1,1 @@
-// Initial authentication service logic
+// Authentication logic updated in main branch
